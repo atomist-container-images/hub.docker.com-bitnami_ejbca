@@ -1,12 +1,81 @@
-# Tags: latest, 7.4.3-2-debian-10-r129, 7.4.3-2, 7-debian-10, 7
+# Tags: latest, 7.4.3-2-debian-10-r152, 7.4.3-2, 7-debian-10, 7
 FROM bitnami/ejbca:latest
-FROM bitnami/ejbca:7.4.3-2-debian-10-r129
+FROM bitnami/ejbca:7.4.3-2-debian-10-r152
 FROM bitnami/ejbca:7.4.3-2
 FROM bitnami/ejbca:7-debian-10
 FROM bitnami/ejbca:7
 
 # Tags: _
 FROM bitnami/ejbca:_
+
+# Tags: 7.4.3-2-debian-10-r151
+FROM bitnami/ejbca:7.4.3-2-debian-10-r151
+
+# Tags: 7.4.3-2-debian-10-r150
+FROM bitnami/ejbca:7.4.3-2-debian-10-r150
+
+# Tags: 7.4.3-2-debian-10-r149
+FROM bitnami/ejbca:7.4.3-2-debian-10-r149
+
+# Tags: 7.4.3-2-debian-10-r148
+FROM bitnami/ejbca:7.4.3-2-debian-10-r148
+
+# Tags: 7.4.3-2-debian-10-r147
+FROM bitnami/ejbca:7.4.3-2-debian-10-r147
+
+# Tags: 7.4.3-2-debian-10-r146
+FROM bitnami/ejbca:7.4.3-2-debian-10-r146
+
+# Tags: 7.4.3-2-debian-10-r145
+FROM bitnami/ejbca:7.4.3-2-debian-10-r145
+
+# Tags: 7.4.3-2-debian-10-r144
+FROM bitnami/ejbca:7.4.3-2-debian-10-r144
+
+# Tags: 7.4.3-2-debian-10-r143
+FROM bitnami/ejbca:7.4.3-2-debian-10-r143
+
+# Tags: 7.4.3-2-debian-10-r142
+FROM bitnami/ejbca:7.4.3-2-debian-10-r142
+
+# Tags: 7.4.3-2-debian-10-r141
+FROM bitnami/ejbca:7.4.3-2-debian-10-r141
+
+# Tags: 7.4.3-2-debian-10-r140
+FROM bitnami/ejbca:7.4.3-2-debian-10-r140
+
+# Tags: 7.4.3-2-debian-10-r139
+FROM bitnami/ejbca:7.4.3-2-debian-10-r139
+
+# Tags: 7.4.3-2-debian-10-r138
+FROM bitnami/ejbca:7.4.3-2-debian-10-r138
+
+# Tags: 7.4.3-2-debian-10-r137
+FROM bitnami/ejbca:7.4.3-2-debian-10-r137
+
+# Tags: 7.4.3-2-debian-10-r136
+FROM bitnami/ejbca:7.4.3-2-debian-10-r136
+
+# Tags: 7.4.3-2-debian-10-r135
+FROM bitnami/ejbca:7.4.3-2-debian-10-r135
+
+# Tags: 7.4.3-2-debian-10-r134
+FROM bitnami/ejbca:7.4.3-2-debian-10-r134
+
+# Tags: 7.4.3-2-debian-10-r133
+FROM bitnami/ejbca:7.4.3-2-debian-10-r133
+
+# Tags: 7.4.3-2-debian-10-r132
+FROM bitnami/ejbca:7.4.3-2-debian-10-r132
+
+# Tags: 7.4.3-2-debian-10-r131
+FROM bitnami/ejbca:7.4.3-2-debian-10-r131
+
+# Tags: 7.4.3-2-debian-10-r130
+FROM bitnami/ejbca:7.4.3-2-debian-10-r130
+
+# Tags: 7.4.3-2-debian-10-r129
+FROM bitnami/ejbca:7.4.3-2-debian-10-r129
 
 # Tags: 7.4.3-2-debian-10-r128
 FROM bitnami/ejbca:7.4.3-2-debian-10-r128
@@ -22,69 +91,3 @@ FROM bitnami/ejbca:7.4.3-2-debian-10-r125
 
 # Tags: 7.4.3-2-debian-10-r124
 FROM bitnami/ejbca:7.4.3-2-debian-10-r124
-
-# Tags: 7.4.3-2-debian-10-r123
-FROM bitnami/ejbca:7.4.3-2-debian-10-r123
-
-# Tags: 7.4.3-2-debian-10-r122
-FROM bitnami/ejbca:7.4.3-2-debian-10-r122
-
-# Tags: 7.4.3-2-debian-10-r121
-FROM bitnami/ejbca:7.4.3-2-debian-10-r121
-
-# Tags: 7.4.3-2-debian-10-r120
-FROM bitnami/ejbca:7.4.3-2-debian-10-r120
-
-# Tags: 7.4.3-2-debian-10-r119
-FROM bitnami/ejbca:7.4.3-2-debian-10-r119
-
-# Tags: 7.4.3-2-debian-10-r118
-FROM bitnami/ejbca:7.4.3-2-debian-10-r118
-
-# Tags: 7.4.3-2-debian-10-r117
-FROM bitnami/ejbca:7.4.3-2-debian-10-r117
-
-# Tags: 7.4.3-2-debian-10-r116
-FROM bitnami/ejbca:7.4.3-2-debian-10-r116
-
-# Tags: 7.4.3-2-debian-10-r115
-FROM bitnami/ejbca:7.4.3-2-debian-10-r115
-
-# Tags: 7.4.3-2-debian-10-r114
-FROM bitnami/ejbca:7.4.3-2-debian-10-r114
-
-# Tags: 7.4.3-2-debian-10-r113
-FROM bitnami/ejbca:7.4.3-2-debian-10-r113
-
-# Tags: 7.4.3-2-debian-10-r112
-FROM bitnami/ejbca:7.4.3-2-debian-10-r112
-
-# Tags: 7.4.3-2-debian-10-r111
-FROM bitnami/ejbca:7.4.3-2-debian-10-r111
-
-# Tags: 7.4.3-2-debian-10-r110
-FROM bitnami/ejbca:7.4.3-2-debian-10-r110
-
-# Tags: 7.4.3-2-debian-10-r109
-FROM bitnami/ejbca:7.4.3-2-debian-10-r109
-
-# Tags: 7.4.3-2-debian-10-r108
-FROM bitnami/ejbca:7.4.3-2-debian-10-r108
-
-# Tags: 7.4.3-2-debian-10-r107
-FROM bitnami/ejbca:7.4.3-2-debian-10-r107
-
-# Tags: 7.4.3-2-debian-10-r106
-FROM bitnami/ejbca:7.4.3-2-debian-10-r106
-
-# Tags: 7.4.3-2-debian-10-r105
-FROM bitnami/ejbca:7.4.3-2-debian-10-r105
-
-# Tags: 7.4.3-2-debian-10-r104
-FROM bitnami/ejbca:7.4.3-2-debian-10-r104
-
-# Tags: 7.4.3-2-debian-10-r103
-FROM bitnami/ejbca:7.4.3-2-debian-10-r103
-
-# Tags: 7.4.3-2-debian-10-r102
-FROM bitnami/ejbca:7.4.3-2-debian-10-r102

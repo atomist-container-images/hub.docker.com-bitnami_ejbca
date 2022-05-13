@@ -1,12 +1,39 @@
-# Tags: latest, 7.4.3-2-debian-10-r156, 7.4.3-2, 7-debian-10, 7
+# Tags: latest, 7.4.3-2-debian-10-r165, 7.4.3-2, 7-debian-10, 7
 FROM bitnami/ejbca:latest
-FROM bitnami/ejbca:7.4.3-2-debian-10-r156
+FROM bitnami/ejbca:7.4.3-2-debian-10-r165
 FROM bitnami/ejbca:7.4.3-2
 FROM bitnami/ejbca:7-debian-10
 FROM bitnami/ejbca:7
 
 # Tags: _
 FROM bitnami/ejbca:_
+
+# Tags: 7.4.3-2-debian-10-r164
+FROM bitnami/ejbca:7.4.3-2-debian-10-r164
+
+# Tags: 7.4.3-2-debian-10-r163
+FROM bitnami/ejbca:7.4.3-2-debian-10-r163
+
+# Tags: 7.4.3-2-debian-10-r162
+FROM bitnami/ejbca:7.4.3-2-debian-10-r162
+
+# Tags: 7.4.3-2-debian-10-r161
+FROM bitnami/ejbca:7.4.3-2-debian-10-r161
+
+# Tags: 7.4.3-2-debian-10-r160
+FROM bitnami/ejbca:7.4.3-2-debian-10-r160
+
+# Tags: 7.4.3-2-debian-10-r159
+FROM bitnami/ejbca:7.4.3-2-debian-10-r159
+
+# Tags: 7.4.3-2-debian-10-r158
+FROM bitnami/ejbca:7.4.3-2-debian-10-r158
+
+# Tags: 7.4.3-2-debian-10-r157
+FROM bitnami/ejbca:7.4.3-2-debian-10-r157
+
+# Tags: 7.4.3-2-debian-10-r156
+FROM bitnami/ejbca:7.4.3-2-debian-10-r156
 
 # Tags: 7.4.3-2-debian-10-r155
 FROM bitnami/ejbca:7.4.3-2-debian-10-r155
@@ -61,33 +88,3 @@ FROM bitnami/ejbca:7.4.3-2-debian-10-r139
 
 # Tags: 7.4.3-2-debian-10-r138
 FROM bitnami/ejbca:7.4.3-2-debian-10-r138
-
-# Tags: 7.4.3-2-debian-10-r137
-FROM bitnami/ejbca:7.4.3-2-debian-10-r137
-
-# Tags: 7.4.3-2-debian-10-r136
-FROM bitnami/ejbca:7.4.3-2-debian-10-r136
-
-# Tags: 7.4.3-2-debian-10-r135
-FROM bitnami/ejbca:7.4.3-2-debian-10-r135
-
-# Tags: 7.4.3-2-debian-10-r134
-FROM bitnami/ejbca:7.4.3-2-debian-10-r134
-
-# Tags: 7.4.3-2-debian-10-r133
-FROM bitnami/ejbca:7.4.3-2-debian-10-r133
-
-# Tags: 7.4.3-2-debian-10-r132
-FROM bitnami/ejbca:7.4.3-2-debian-10-r132
-
-# Tags: 7.4.3-2-debian-10-r131
-FROM bitnami/ejbca:7.4.3-2-debian-10-r131
-
-# Tags: 7.4.3-2-debian-10-r130
-FROM bitnami/ejbca:7.4.3-2-debian-10-r130
-
-# Tags: 7.4.3-2-debian-10-r129
-FROM bitnami/ejbca:7.4.3-2-debian-10-r129
-
-# Tags: 7.4.3-2-debian-10-r128
-FROM bitnami/ejbca:7.4.3-2-debian-10-r128
